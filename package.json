@@ -1,0 +1,15 @@
+{
+  "name": "salesforce-service",
+  "version": "1.0.0",
+  "description": "simple service to retrive data from salesforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Zabczyński",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsforce": "^1.8.4"
+  }
+}
